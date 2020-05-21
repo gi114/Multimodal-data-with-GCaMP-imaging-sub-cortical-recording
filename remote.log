@@ -1,2 +1,2 @@
-d85da4f9-c408-4f7e-8fb7-382761fde412 encryption=none endpoint=8ca92f91-39fb-4176-bcb9-7fb1ed53114b externaltype=globus fileprefix=/5/published/publication_170/ name=globus type=external timestamp=1590080342.672976604s
+d85da4f9-c408-4f7e-8fb7-382761fde412 encryption=none endpoint=8ca92f91-39fb-4176-bcb9-7fb1ed53114b externaltype=globus fileprefix=/5/published/publication_170/submitted_data/ name=globus type=external timestamp=1590081400.012218774s
 f9abad08-bc8b-457d-9eab-5a3b3c504cde encryption=none endpoint=8ca92f91-39fb-4176-bcb9-7fb1ed53114b externaltype=globus fileprefix=/5/published/publication_170/submitted_data/ name=deprecated-globus type=external timestamp=1590071101.579469229s
