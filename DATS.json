@@ -22,6 +22,25 @@
             ]
 		}
 	],
+    "distributions": [
+	        {
+			"formats": [
+				"MAT", "TIF", "TXT"
+            		],
+			"size" : 33.32,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://www.frdr-dfdr.ca/repo/handle/doi:10.20383/101.0170",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
 	"types": [
 		{
             "method": {
@@ -136,5 +155,31 @@
             "value": "in vivo",
             "valueIRI": ""
         }
-	]
+	],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "174"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		}
+    ]
 }
