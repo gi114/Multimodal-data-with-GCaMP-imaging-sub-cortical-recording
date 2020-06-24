@@ -180,6 +180,17 @@
 					"value": "CONP"
 				}
 			]
-		}
+		},
+        {
+            "category": "globusEndpoint",
+            "values": [
+                {
+                    "EndpointName": "8ca92f91-39fb-4176-bcb9-7fb1ed53114b"
+                },
+                {
+                    "EndpointPath": "/5/published/publication_170/submitted_data/"
+                }
+            ]
+        }
     ]
 }
