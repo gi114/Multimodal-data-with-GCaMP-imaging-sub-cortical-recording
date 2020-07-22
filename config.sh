@@ -9,3 +9,7 @@ git-annex-remote-globus setup
 
 # enable globus remote
 git annex enableremote globus
+
+
+# run python config.py script to set keyring with globus token
+python config.py
