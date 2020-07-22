@@ -4,3 +4,4 @@
 config.sh annex.largefiles=nothing
 config.py annex.largefiles=nothing
 DATS.json annex.largefiles=nothing
+README.md annex.largefiles=nothing
